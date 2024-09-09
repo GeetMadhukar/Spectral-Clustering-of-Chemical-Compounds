@@ -19,6 +19,6 @@ Scales the ECFP4 fingerprints using StandardScaler for better clustering perform
 
 **Dependencies:**
 
-pandas
-scikit-learn
-numpy
+pandas, 
+scikit-learn, 
+numpy.
